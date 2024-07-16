@@ -1,6 +1,6 @@
 # Urbanflow Milano
 
-The streamlit webapp is available at [Link](https://urbanflowmilano.streamlit.app/)
+The streamlit webapp is available at [link](https://urbanflowmilano.streamlit.app/)
 
 ## Files description
 
