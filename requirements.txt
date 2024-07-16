@@ -1,0 +1,16 @@
+streamlit == 1.30.0
+streamlit-keplergl
+pyparsing
+gsheetsdb == 0.1.13.1
+plotly
+pandas_profiling
+streamlit_pandas_profiling
+folium
+streamlit_folium
+plotly
+holoviews == 1.16.0
+bokeh == 3.3.1
+asyncio
+contextily
+matplotlib
+branca==0.3.1
