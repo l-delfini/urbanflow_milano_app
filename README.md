@@ -1,4 +1,4 @@
-# Urbanflow Milano
+# UrbanFlow Milano
 
 UrbanFlow Milano is an interactive web application created with Streamlit as part of a university project. The goal is to experiment with and present different ways of visualizing data related to sustainable mobility. The application is designed for desktop use and is divided into four pages: Introduction, OD Flow Map, Trajectory Flow Map, and Chord Diagram.
 
